@@ -2,31 +2,31 @@ const DATA = [
   {
     id: 1,
     name: 'Yumeko Jabami',
-    img: '../img/yumeko.png',
+    img: './img/yumeko.png',
     desc: 'Yumeko Jabami (蛇喰 夢子 Jabami Yumeko) is the main protagonist of Kakegurui - Compulsive Gambler. She is a transfer student at Hyakkaou Private Academy and the classmate of Ryota Suzui and Mary Saotome. Yumeko’s family is aligned with the family of Kirari Momobami.'
   },
   {
     id: 2,
     name: 'Kirari Momobami',
-    img: '../img/kirari.png',
+    img: './img/kirari.png',
     desc: 'Kirari Momobami (桃喰 綺羅莉 Momobami Kirari), is a major antagonist from Kakegurui. She is the 105th Student Council President at Hyakkaou Private Academy and the one responsible for the current hierarchy at the academy whose family is aligned with the family of Yumeko Jabami.'
   },
   {
     id: 3,
     name: 'Runa Yomozuki',
-    img: '../img/runa.png',
+    img: './img/runa.png',
     desc: 'Runa Yomozuki (黄泉月 るな Yomozuki Runa) is a member of the Student Council and the leader of the Election Committee who serves as a referee during election gambling matches.'
   },
   {
     id: 4,
     name: 'Sayaka Igarashi',
-    img: '../img/sayaka.png',
+    img: './img/sayaka.png',
     desc: 'Sayaka Igarashi (五十嵐 清華 Igarashi Sayaka) is a supporting character in Kakegurui. She is the Secretary of the Student Council and the Personal Assistant of the current Student Council President, Kirari Momobami.'
   },
   {
     id: 5,
     name: 'Itsuki Sumeragi',
-    img: '../img/itsuki.png',
+    img: './img/itsuki.png',
     desc: 'Itsuki Sumeragi (皇 伊月 Sumeragi Itsuki) is a supporting character in Kakegurui. She is a first-year student who belongs to the "Flower" class at Hyakkaou Private Academy and a member of the Student Council. Her father is the president of a prominent toy company in Japan.'
   }
 ];
