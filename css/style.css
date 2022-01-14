@@ -1,0 +1,66 @@
+.mainBackground{
+	height: 100%;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: -2;
+}
+.nav{
+	margin: 40px auto 65px 0;
+	height: 390px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.characterButton{
+	width: 250px;
+	height: 50px;
+	background-image: url("../img/button.png");
+	background-size: cover;
+	display: flex;
+	align-items: center;
+}
+.buttonText{
+	font-family: NanumMyeongjo;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 25px;
+	line-height: 45px;
+	color: #FFFF;
+	margin: 0 auto;
+	text-decoration: none;
+}
+.logo{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	z-index: -1;
+}
+.info{
+	width: 650px;
+	height: 500px;
+	top: 0;
+	display: flex;
+	align-items: center;
+	margin: 0 auto;
+	font-family: NanumMyeongjo;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 36px;
+	line-height: 45px;
+}
+.image{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	z-index: -2;
+	height: 50vw;
+}
+.contentWrapper{
+	position: absolute;
+	top: 0;
+	text-align: center;
+	height: 100%;
+	width: 100%;
+	z-index: -1;
+}
