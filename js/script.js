@@ -2,7 +2,7 @@ const DATA = [
   {
     id: 1,
     name: 'Yumeko Jabami',
-    img: '../img/yumeko.png',
+    img: './img/yumeko.png',
     desc: 'Yumeko Jabami (蛇喰 夢子 Jabami Yumeko) is the main protagonist of Kakegurui - Compulsive Gambler. She is a transfer student at Hyakkaou Private Academy and the classmate of Ryota Suzui and Mary Saotome. Yumeko’s family is aligned with the family of Kirari Momobami.'
   },
   {
