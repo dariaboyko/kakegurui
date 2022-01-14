@@ -63,7 +63,7 @@ const filterData = (data, searchName) => {
 
 const createContent = (character) => {
   const content = `
-    <img class="image" src="${character.img}" alt="${character.name} avatar" />
+    <img class="image" src="${character.img}" alt="${character.name}" />
     <p class="info">${character.desc}</p>
   `;
 
